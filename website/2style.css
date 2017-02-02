@@ -1,0 +1,101 @@
+body{
+  background-color: #85fdff;
+}
+h1{
+  color: #ff6666;
+  font-size: 25pt;
+  font: Impact;
+}
+#classes1{
+  color: red;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+  border: bold 2px navy;
+}
+#classes2{
+  color: orange;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes3{
+  color: yellow;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes4{
+  color: green;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes5{
+  color: blue;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes6{
+  color: indigo;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes7{
+  color: violet;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+#classes8{
+  color: gray;
+  font-size: 20pt;
+  font: Impact;
+  font-weight: bold;
+}
+h2{
+  font-size: 16pt;
+  color: navy;
+}
+#description1{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description2{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description3{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description4{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description5{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description6{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description7{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}
+#description8{
+  font-size: 12pt;
+  font-weight: lighter;;
+  color: navy;
+}

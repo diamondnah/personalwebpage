@@ -1,0 +1,22 @@
+body{
+  background-color: beige;
+}
+h1{
+  font-size: 23 pt;
+  font-style: oblique;
+  font: courier;
+  color: red;
+}
+p{
+  background-color: #FF8573;
+}
+#first-p{
+  background-color: #F5A89D;
+}
+.indented{
+  padding-left: 30px;
+}
+ul{
+  border: solid 2px black;
+    width: 250px;
+}

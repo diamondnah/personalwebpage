@@ -1,0 +1,46 @@
+body{
+  background-image: url("galaxy1.jpg")
+}
+#heading1{
+  font-size: 30pt;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+#h1{
+  font-size: 18pt;
+  text-align: center;
+  color: white;
+}
+#smallh{
+  font-size: 12pt;
+  font-weight: normal;;
+  text-align: center;
+  color: white;
+  border: solid 4px white;
+}
+#h2{
+  font-size: 18pt;
+  text-align: center;
+  color: white;
+}
+#smallh2{
+  font-size: 12pt;
+  font-weight: normal;;
+  text-align: center;
+  color: white;
+  border: solid 4px white;
+}
+#h3{
+  font-size: 18pt;
+  text-align: center;
+  color: white;
+}
+#smallh3{
+  font-size: 12pt;
+  font-weight: normal;;
+  text-align: center;
+  color: white;
+  border: solid 4px white;
+}

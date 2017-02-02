@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="1style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<title>A Me Page</title>
+</head>
+<body>
+	<p>
+		<center>
+		<u id="quote">"Every man dies. Not every man lives."</u>
+		<br>
+		<u id= "quote2">-William Wallace</u>
+	</center>
+	</p>
+	<center>
+<div id="title">Who am I?</div>
+</center>
+<div id="navbar">
+<div class="nav-item"><a href="classes.html">Courses</a></div>
+<div class= "nav-item"> <a href="interests.html">Interests</a> </div>
+<div class= "nav-item"> <a href="worldview.html">Worldview</a> </div>
+<div class= "nav-item"> </div>
+</div>
+<center>
+		<p id="biography"> Hello, I am Diamondna. I was born and raised in Cambodia, which is in Southeast Asia, bordering Thailand, Vietnam, and Laos. I go to Logos International School and I am currently a sophomore. Apart from studying, I love playing volleyball, going on spontaneous food tours with my friends, and binge-watching Korean shows. My friends would describe me as crazy, chill, and studious. I would agree with them. :D
+</p>
+<br>
+</center>
+<br>
+<div id="extra-stuff">
+	<img class="images" src="IMG_4125.jpg" height="250" width="330"></img>
+<img class="images" src="IMG_0659.jpg" height="250" width="375"></img>
+<img class="images" src="volleyball.jpg" height="250" width="375"></img>
+<center>
+<video id="video" width="720" height="640" controls>
+  <source src="Lyric Video.mp4" type="video/mp4">
+</center>
+</div>
+<button id="toggle">Click to hide media.</button>
+<script>
+$("#toggle").click(function(){
+	$("#extra-stuff").toggle("slow");
+});
+</script>
+
+	</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="4style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<title>My Interests</title>
+</head>
+<body>
+  <h1 id="heading"><u>This is a list of my interests:</u></h1>
+  <ul>
+  	<li id="kshows1"><u> Korean Shows </u></l>
+  		<p id="kshows2"> I love watching Korean variety, reality, and entertainment shows! They are
+        extremely relatable and funny. I binge-watch it on the weekends to help relieve stress from
+        school and take my mind off of school and life for awhile.</p>
+        <div id="media1">
+      <img id="images" src="2d1n.jpg" height="250" width="330"></img>
+      <img id="images" src="knowingbro.jpeg" height="250" width="330"></img>
+      <img id="images" src="wgm.png" height="250" width="330"></img>
+    </div>
+  		<button id="toggle">Click to hide media.</button>
+  		<script>
+  			$( "#toggle" ).click(function() {
+  				$( "#media1" ).toggle("slow");
+  			});
+  		</script>
+  		<br>
+<li id="sports1"><u> Watching/Playing Sports </u></l>
+        <p id="sports2"> I love watching and playing sports. It gives me such an undescribable thrill and excitement. I have been playing sports for half a decade now, and I have loved it all.
+        It requires a lot of dedication, hard work, endurance, perseverance, patience and teamwork. Because of this, sports have taught me so much about life.
+        </p>
+        <div id="media2">
+        <img id="images2" src="vball.jpg" height="250" width="330"></img>
+        <img id="images2" src="soccer.jpg" height="250" width="330"></img>
+        <img id="images2" src="nba.jpg" height="250" width="330"></img>
+      </div>
+			<button id="toggle2">Click to hide media.</button>
+			<script>
+			$( "#toggle2" ).click(function() {
+				$( "media2" ).toggle("slow");
+			});
+			</script>
+        <br>

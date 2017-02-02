@@ -1,0 +1,53 @@
+#biography{
+  border: solid 6px navy;
+  font-size: 14pt;
+}
+#image-container{
+  display: none;
+}
+.images{
+  padding: 20px;
+  border: solid 3px navy;
+  float: left;
+}
+#video{
+  padding: 30px;
+}
+#title{
+  font-style: normal;
+  font: courier;
+  color: navy;
+  font-size: 50pt;
+  font-weight: bold;
+}
+body{
+  background-color:  #FDD7E4;
+}
+#quote{
+  font-style: italic;
+  font: Impact, Charcoal, san-serif;
+  font-size: 20pt;
+  color: #151B54;
+  background-color: #FC6C85;
+}
+#quote2{
+  font: Impact, Charcoal, san-serif;
+  font-size: 18pt;
+  color: #151B54;
+}
+#navbar{
+  width: 800px;
+}
+.nav-item{
+  display: inline;
+  padding: 110px;
+  font-size: 20px;
+  font: sans-serif;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#toggle{
+  font-size: 12pt;
+  color: navy;
+}

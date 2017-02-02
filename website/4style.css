@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+#heading{
+  font-size: 30pt;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font: courier;
+}
+#kshows1{
+  font-size: 16pt;
+  text-align: center;
+  color: #ffcc99;
+}
+#kshows2{
+  font-size: 12pt;
+  text-align: center;
+  color: #ffcc99;
+}
+#sports1{
+  font-size: 16pt;
+  text-align: center;
+  color: #ffcc99;
+}
+#sports2{
+  font-size: 12pt;
+  text-align: center;
+  color: #ffcc99;
+}
