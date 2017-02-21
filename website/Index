@@ -43,6 +43,8 @@ $("#toggle").click(function(){
 	$("#extra-stuff").toggle("slow");
 });
 </script>
-
+<br>
+<br>
+<a href="guestbook.html">Click here to give me feedback!</a>
 	</body>
 </html>
